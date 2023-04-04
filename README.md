@@ -17,3 +17,6 @@ OPENAI_KEY, your key goes here
 go here to get an open AI key:
 
 https://platform.openai.com/signup
+
+
+[![ChatWindowGPT](https://img.youtube.com/vi/2nWr4qRzmWA/0.jpg)](https://www.youtube.com/watch?v=2nWr4qRzmWA)
