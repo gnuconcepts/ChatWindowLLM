@@ -1,7 +1,7 @@
 # ChatWindowGPT
 Simple Chat Window to interface with ChatGPT API
 
-You need the open AI library to run this. 
+You need the Open AI library to run this. 
 
 
 ```
